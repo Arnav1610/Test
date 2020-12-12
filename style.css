@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+h1,h2,h3{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+}
+p{
+    font-size: 28px;
+    color: darkblue;
+    font-family: fantasy;
+    font-weight: 100
+        
+}
